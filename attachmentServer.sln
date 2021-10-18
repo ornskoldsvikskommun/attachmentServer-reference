@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "attachmentServer", "attachmentServer\attachmentServer.njsproj", "{306586D3-20E5-45F3-B36C-C3A57D3C7D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306586D3-20E5-45F3-B36C-C3A57D3C7D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306586D3-20E5-45F3-B36C-C3A57D3C7D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306586D3-20E5-45F3-B36C-C3A57D3C7D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306586D3-20E5-45F3-B36C-C3A57D3C7D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA57DA8-8BB9-4A34-BCE5-2D79408C8C8B}
+	EndGlobalSection
+EndGlobal
